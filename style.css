@@ -1,0 +1,54 @@
+<style>
+        h1{
+            color: #4c00ff;
+            background-color: rgb(5, 5, 5);
+            height: 50px;
+            width: auto;
+        }
+        h2{
+            color: #0a0a0a;
+            background-color: slategray;
+            height: 50px;
+            width: auto;
+        }
+        P{
+            color: blue;
+            font-size: 20px;
+            font-weight:700px ;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+        #mobilenumber{
+            font-size: 30;
+            color: #7fff00;
+        }
+        .friend{
+            background-color: crimson;
+            color: #f71485;
+        }
+        h4.friend{
+            color: #006400;
+            background-color: darkolivegreen;
+        }
+        .gig{
+            color: #0ee6ee;
+        }
+        .blog{
+            
+            background-color: #ff1493;
+            border: 5px solid green;
+            border-radius: 10px;
+            margin: 40px;
+            padding: 40px;
+            width: auto;
+            height: 200px;
+        }
+        H3{
+            text-align: center;
+            color: blue;
+            border-radius: 
+            float: left;
+            display: inline-block;
+        }
+ </style>       
+        
